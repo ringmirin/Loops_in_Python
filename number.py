@@ -1,4 +1,8 @@
-i=1
-while i<=10:
-   print(i)
-   i=i+1
+# user=int(input("enter the number"))
+# i=1
+# while i<=4:
+#    x=user
+#    next=user*10
+#    user=next
+#    i=i+1
+#    print(x)
