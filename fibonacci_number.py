@@ -16,4 +16,12 @@
 #       print(next,end=" ")
 #       a=b
 #       b=next
+
+#####simple fibonacci   ####
+
+# a,b=0,1
+# while a<=100:
+#    print(a,end=",")
+#    a,b=b,a+b
+# print("done")
    
